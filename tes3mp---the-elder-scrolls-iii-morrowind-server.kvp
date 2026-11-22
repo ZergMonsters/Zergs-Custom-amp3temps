@@ -1,4 +1,4 @@
-Meta.DisplayName=TES3MP - The Elder Scrolls III: Morrowind Servers
+Meta.DisplayName=TES3MP - Zergs
 Meta.Description=TES3MP and OpenMW Engine for The Elder Scrolls III: Morrowind Dedicated Servers
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -24,7 +24,7 @@ Meta.NoCommercialUsage=False
 Meta.ConfigVersion=2
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
-Meta.AppConfigId=1a00b3e2-b8f1-45ce-ba14-478cc79f0c1c
+Meta.AppConfigId=2840d92b-484a-408f-bada-337275ac3c30
 Meta.ImportableExtensions=[]
 Meta.AppIsMultiIPAware=True
 App.DisplayName=TES3MP - The Elder Scrolls III: Morrowind Server
